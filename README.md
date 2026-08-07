@@ -3,9 +3,9 @@ Hi, I'm Karishma 👋
 ![Profile Views](https://komarev.com/ghpvc/?username=Karishma133&color=blue)
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=F72585&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+Karishma+%F0%9F%91%8B;MERN+Stack+Developer+%F0%9F%92%BB;Building+the+web's+next+favorite+experience+%F0%9F%9A%80;One+commit+at+a+time+%E2%9A%A1" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=8B5CF6&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+Karishma+%F0%9F%91%8B;MERN+Stack+Developer+%F0%9F%92%BB;Building+the+web's+next+favorite+experience+%F0%9F%9A%80;One+commit+at+a+time+%E2%9A%A1" alt="Typing SVG" />
 
-<img src="https://komarev.com/ghpvc/?username=Karishma133&label=Profile%20Views&color=f72585&style=flat" alt="profile views"/>
+<img src="https://komarev.com/ghpvc/?username=Karishma133&label=Profile%20Views&color=8b5cf6&style=flat" alt="profile views"/>
 
 </div>
 
@@ -57,11 +57,11 @@ Hi, I'm Karishma 👋
 
 ---
 
-### 🏆 Trophies
+### 📈 Contribution Activity
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=Karishma133&theme=radical&no-frame=true&row=1&column=6" alt="trophies"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Karishma133&theme=react-dark&hide_border=true&area=true" alt="activity graph"/>
 
 </div>
 
@@ -71,9 +71,9 @@ Hi, I'm Karishma 👋
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](#)
-[![Portfolio](https://img.shields.io/badge/Portfolio-F72585?style=flat-square&logo=vercel&logoColor=white)](#)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](#)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/karishma-s-007824293)
+[![Portfolio](https://img.shields.io/badge/Portfolio-8B5CF6?style=flat-square&logo=vercel&logoColor=white)](https://karishma-portfolio-nu.vercel.app/)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:karishmas56496@gmail.com)
 
 </div>
 
