@@ -11,46 +11,6 @@ Hi, I'm Karishma 👋
 
 ---
 
----
-
-### 💼 Featured Projects
-
-<table>
-<tr>
-<td width="50%">
-
-**🧑‍💼 [Online Job Portal](https://github.com/Karishma133/online-job-portal)**
-
-A comprehensive MERN stack job portal for seamless job searching and hiring — built with MongoDB, Express, React & Node.js.
-
-`MongoDB` `Express` `React` `Node.js`
-
-</td>
-<td width="50%">
-
-**🔄 [SyncBoard](https://github.com/Karishma133/SyncBoard)**
-
-A real-time collaborative board for teams to plan, organize and sync work together instantly.
-
-`Real-time` `Socket.io` `Collaboration`
-
-</td>
-</tr>
-<tr>
-<td width="50%" colspan="2">
-
-**🎯 [INTERVIEWOS](https://github.com/Karishma133/INTERVIEWOS)**
-
-An advanced full-stack technical interview prep & multiplayer assessment platform with real-time collaborative coding and WebRTC video rooms.
-
-`WebRTC` `Socket.io` `Real-time Coding` `MERN`
-
-</td>
-</tr>
-</table>
-
----
-
 ### 🚀 About Me
 
 - 💼 **MERN Stack Developer** — turning ideas into full-stack products
@@ -63,18 +23,7 @@ An advanced full-stack technical interview prep & multiplayer assessment platfor
 
 <div align="center">
 
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![Socket.io](https://img.shields.io/badge/Socket.io-010101?style=flat-square&logo=socket.io&logoColor=white)
-![WebRTC](https://img.shields.io/badge/WebRTC-333333?style=flat-square&logo=webrtc&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
-![Render](https://img.shields.io/badge/Render-46E3B7?style=flat-square&logo=render&logoColor=white)
+<img src="https://skillicons.dev/icons?i=mongodb,express,react,nodejs,js,socketio,tailwind,git,postman,vercel&theme=dark" alt="tech stack icons"/>
 
 </div>
 
@@ -105,16 +54,26 @@ An advanced full-stack technical interview prep & multiplayer assessment platfor
 
 ---
 
+### 🐍 Live Contribution Snake
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/Karishma133/Karishma133/output/github-contribution-grid-snake-dark.svg" alt="snake animation"/>
+
+</div>
+
+---
+
 ### 🌐 Let's Connect
 
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/karishma-s-007824293)
 [![Portfolio](https://img.shields.io/badge/Portfolio-0EA5E9?style=flat-square&logo=vercel&logoColor=white)](https://karishma-portfolio-nu.vercel.app/)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](https://mail.google.com/mail/u/0/?ogbl#inbox)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:karishmas56496@gmail.com)
 
 </div>
 
 <div align="center">
-<sub>✨ Thanks for stopping by — check out my pinned repos below! ✨</sub>
+<sub>✨ Thanks for stopping by! ✨</sub>
 </div>
