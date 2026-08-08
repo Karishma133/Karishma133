@@ -13,9 +13,12 @@
 
 ---
 
-### 📊 GitHub Stats
+### 📊 Quick Stats
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Karishma133&show_icons=true&count_private=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" height="165"/>
+
+![GitHub followers](https://img.shields.io/github/followers/Karishma133?style=for-the-badge&color=0EA5E9&labelColor=0D1117)
+![GitHub Repo stars](https://img.shields.io/github/stars/Karishma133?style=for-the-badge&color=0EA5E9&labelColor=0D1117)
+
 </div>
 
 ---
