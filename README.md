@@ -1,5 +1,4 @@
 Hi, I'm Karishma 👋
-
 ![Profile Views](https://komarev.com/ghpvc/?username=Karishma133&color=blue)
 <div align="center">
 
@@ -35,14 +34,12 @@ Hi, I'm Karishma 👋
 
 <img src="https://streak-stats.demolab.com?user=Karishma133&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" />
 
-<br/><br/>
-
-<a href="https://github.com/Karishma133">
-  <img src="https://github-readme-stats.vercel.app/api?username=Karishma133&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Karishma's GitHub Stats" />
-</a>
-<a href="https://github.com/Karishma133">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Karishma133&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-</a>
+<!-- Server down hone ki wajah se in stats ko abhi hide (comment) kar diya hai -->
+<!-- 
+<br/>
+<img src="https://github-readme-stats.vercel.app/api?username=Karishma133&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Karishma133&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
+-->
 
 </div>
 
@@ -81,3 +78,4 @@ Hi, I'm Karishma 👋
 <div align="center">
 <sub>✨ Thanks for stopping by! ✨</sub>
 </div>
+
