@@ -35,10 +35,14 @@ Hi, I'm Karishma 👋
 
 <img src="https://streak-stats.demolab.com?user=Karishma133&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" />
 
-<br/>
+<br/><br/>
 
-<img src="https://github-readme-stats.vercel.app/api?username=Karishma133&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Karishma133&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
+<a href="https://github.com/Karishma133">
+  <img src="https://github-readme-stats.vercel.app/api?username=Karishma133&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Karishma's GitHub Stats" />
+</a>
+<a href="https://github.com/Karishma133">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Karishma133&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+</a>
 
 </div>
 
