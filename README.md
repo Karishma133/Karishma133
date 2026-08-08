@@ -1,9 +1,3 @@
-Hi, I'm Karishma 👋
-
-![Profile Views](https://komarev.com/ghpvc/?username=Karishma133&color=blue)
-
-
-
 <div align="center">
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=0EA5E9&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+Karishma+%F0%9F%91%8B;MERN+Stack+Developer+%F0%9F%92%BB;Building+the+web's+next+favorite+experience+%F0%9F%9A%80;One+commit+at+a+time+%E2%9A%A1" alt="Typing SVG" />
 
@@ -19,9 +13,12 @@ Hi, I'm Karishma 👋
 
 ---
 
-### 🏆 GitHub Trophies
+### 📊 Quick Stats
 <div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=Karishma133&theme=tokyonight&no-frame=true&row=1&column=6" alt="GitHub Trophies"/>
+
+![GitHub followers](https://img.shields.io/github/followers/Karishma133?style=for-the-badge&color=0EA5E9&labelColor=0D1117)
+![GitHub Repo stars](https://img.shields.io/github/stars/Karishma133?style=for-the-badge&color=0EA5E9&labelColor=0D1117)
+
 </div>
 
 ---
@@ -34,23 +31,11 @@ Hi, I'm Karishma 👋
 ---
 
 ### 🌟 Featured Projects
-<div align="center">
 
-<a href="https://github.com/Karishma133/INTERVIEWOS">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Karishma133&repo=INTERVIEWOS&theme=tokyonight&hide_border=true" alt="InterviewOS"/>
-</a>
-<a href="https://github.com/Karishma133/Syncboard">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Karishma133&repo=Syncboard&theme=tokyonight&hide_border=true" alt="SyncBoard"/>
-</a>
-<br/>
-<a href="https://github.com/Karishma133/online-job-portal">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Karishma133&repo=online-job-portal&theme=tokyonight&hide_border=true" alt="Online Job Portal"/>
-</a>
-<a href="https://github.com/Karishma133/karishma-portfolio">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Karishma133&repo=karishma-portfolio&theme=tokyonight&hide_border=true" alt="Portfolio"/>
-</a>
-
-</div>
+- 🔗 **[InterviewOS](https://github.com/Karishma133/INTERVIEWOS)** — Real-time technical interview scheduling & feedback platform
+- 🔗 **[SyncBoard](https://github.com/Karishma133/Syncboard)** — Real-time collaborative project dashboard
+- 🔗 **[Online Job Portal](https://github.com/Karishma133/online-job-portal)** — Full-stack job portal with role-based access control
+- 🔗 **[Portfolio](https://github.com/Karishma133/karishma-portfolio)** — My personal developer portfolio
 
 ---
 
@@ -58,33 +43,6 @@ Hi, I'm Karishma 👋
 - 🔹 Next.js & Server Components
 - 🔹 System Design Fundamentals
 - 🔹 AWS Basics & Cloud Deployment
-
----
-
-### 🔥 GitHub Streak & Stats
-<div align="center">
-<img src="https://streak-stats.demolab.com?user=Karishma133&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" />
-
-<br/>
-
-<img src="https://github-readme-stats.vercel.app/api?username=Karishma133&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="165"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Karishma133&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="165"/>
-
-</div>
-
----
-
-### 📈 Contribution Activity
-<div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Karishma133&theme=tokyo-night&hide_border=true&area=true" alt="activity graph"/>
-</div>
-
----
-
-### 🐍 Live Contribution Snake
-<div align="center">
-<img src="https://raw.githubusercontent.com/Karishma133/Karishma133/output/github-contribution-grid-snake-dark.svg" alt="snake animation"/>
-</div>
 
 ---
 
