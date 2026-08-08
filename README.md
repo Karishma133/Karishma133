@@ -23,6 +23,13 @@
 
 ---
 
+### 🔥 GitHub Streak
+<div align="center">
+<img src="https://streak-stats.demolab.com?user=Karishma133&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" />
+</div>
+
+---
+
 ### 🧰 Tech Stack
 <div align="center">
 <img src="https://skillicons.dev/icons?i=mongodb,express,react,nodejs,js,socketio,tailwind,git,postman,vercel&theme=dark" alt="tech stack icons"/>
