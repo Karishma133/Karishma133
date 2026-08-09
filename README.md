@@ -15,7 +15,11 @@
 
 ### 📊 GitHub Stats & Streak
 <div align="center">
+
 <img src="https://streak-stats.demolab.com?user=Karishma133&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" />
+
+**💻 Total Commits: 100+ and counting 🚀**
+
 </div>
 
 ---
