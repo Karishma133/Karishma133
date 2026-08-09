@@ -12,7 +12,6 @@
 📊 **Quick Stats**
 
 <div align="center">
-  <!-- Yeh raha complete stats card jo aapke All Commits, Stars, Followers aur Repos sab dikhayega -->
   <img src="https://github-readme-stats.vercel.app/api?username=Karishma133&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="Karishma's GitHub Stats" />
   <br><br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Karishma133&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
