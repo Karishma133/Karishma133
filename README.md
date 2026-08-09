@@ -13,16 +13,11 @@
 
 ---
 
-### 📊 GitHub Stats
+### 📊 GitHub Stats & Streak
 <div align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=Karishma133&show_icons=true&count_private=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" width="450"/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Karishma133&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="350"/>
-</div>
 
----
-
-### 🔥 GitHub Streak
-<div align="center">
 <img src="https://streak-stats.demolab.com?user=Karishma133&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" />
 </div>
 
