@@ -13,13 +13,19 @@
 
 ---
 
-### 📊 GitHub Stats & Streak
+### 📊 Quick Stats
 <div align="center">
 
+![GitHub followers](https://img.shields.io/github/followers/Karishma133?style=for-the-badge&color=0EA5E9&labelColor=0D1117)
+![GitHub Repo stars](https://img.shields.io/github/stars/Karishma133?style=for-the-badge&color=0EA5E9&labelColor=0D1117)
+
+</div>
+
+---
+
+### 🔥 GitHub Streak
+<div align="center">
 <img src="https://streak-stats.demolab.com?user=Karishma133&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" />
-
-**💻 Total Commits: 100+ and counting 🚀**
-
 </div>
 
 ---
