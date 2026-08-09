@@ -1,5 +1,6 @@
 <div align="center">
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=0EA5E9&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+Karishma+%F0%9F%91%8B;MERN+Stack+Developer+%F0%9F%92%BB;Building+the+web's+next+favorite+experience+%F0%9F%9A%80;One+commit+at+a+time+%E2%9A%A1" alt="Typing SVG" />
+<br><br>
 <img src="https://komarev.com/ghpvc/?username=Karishma133&label=Profile%20Views&color=0ea5e9&style=flat" alt="profile views"/>
 </div>
 
@@ -8,14 +9,13 @@
 - ⚡ Passionate about real-time systems, collaborative tools & clean UI/UX
 - 🌱 Always learning, always shipping
 
-📊 **Quick Stats**
+📊 **GitHub Stats & Overview**
 
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Karishma133&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="Karishma's GitHub Stats" />
-</div>
-
-<div align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Karishma133&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+  <!-- Yeh card aapke Total Commits (live), Stars, Followers, Following aur Total Repos sab ek sath dikhayega -->
+  <img src="https://github-readme-stats.vercel.app/api?username=Karishma133&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&line_height=28" alt="Karishma's GitHub Stats" />
+  <br><br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Karishma133&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 </div>
 
 🔥 **GitHub Streak**
