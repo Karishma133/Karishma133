@@ -13,12 +13,10 @@
 
 ---
 
-### 📊 Quick Stats
+### 📊 GitHub Stats
 <div align="center">
-
-![GitHub followers](https://img.shields.io/github/followers/Karishma133?style=for-the-badge&color=0EA5E9&labelColor=0D1117)
-![GitHub Repo stars](https://img.shields.io/github/stars/Karishma133?style=for-the-badge&color=0EA5E9&labelColor=0D1117)
-
+<img src="https://github-readme-stats.vercel.app/api?username=Karishma133&show_icons=true&count_private=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" width="450"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Karishma133&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="350"/>
 </div>
 
 ---
